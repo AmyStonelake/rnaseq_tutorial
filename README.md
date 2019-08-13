@@ -28,7 +28,7 @@ Note: An archived version of this tutorial exists <a href="https://github.com/gr
    <li><a href="https://github.com/griffithlab/rnaseq_tutorial/wiki/Syntax">Syntax</a></li>
    <li><a href="https://github.com/griffithlab/rnaseq_tutorial/wiki/Intro-to-AWS-Cloud-Computing">Intro to AWS Cloud Computing</a></li>
    <li><a href="https://github.com/griffithlab/rnaseq_tutorial/wiki/Logging-into-Amazon-Cloud">Logging into Amazon Cloud</a></li>
-   <li><a href="https://github.com/griffithlab/rnaseq_tutorial/wiki/Unix-Bootcamp">Unix Bootcamp</a></li>
+   <li><a href="https://github.com/AmyStonelake/rnaseq_tutorial/wiki/Unix-Bootcamp">Unix Bootcamp</a></li>
    <li><a href="https://github.com/griffithlab/rnaseq_tutorial/wiki/Environment">Environment</a></li>
    <li><a href="https://github.com/griffithlab/rnaseq_tutorial/wiki/Resources">Resources</a></li>
   </ol>
