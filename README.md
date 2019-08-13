@@ -21,13 +21,13 @@ Note: An archived version of this tutorial exists <a href="https://github.com/gr
 
 ### Tutorial Table of Contents
 <ol start="0">
-  <li><strong>Module 0 - Introduction and Cloud Computing</strong></li>
+  <li><strong>Module 0 - Introduction to NIH HPC Biowulf and Unix</strong></li>
   <ol start="i">
    <li><a href="https://github.com/griffithlab/rnaseq_tutorial/wiki/Authors">Authors</a></li>
    <li><a href="https://github.com/griffithlab/rnaseq_tutorial/wiki/Citation">Citation and Supplementary Materials</a></li>
    <li><a href="https://github.com/griffithlab/rnaseq_tutorial/wiki/Syntax">Syntax</a></li>
-   <li><a href="https://github.com/griffithlab/rnaseq_tutorial/wiki/Intro-to-AWS-Cloud-Computing">Intro to AWS Cloud Computing</a></li>
-   <li><a href="https://github.com/griffithlab/rnaseq_tutorial/wiki/Logging-into-Amazon-Cloud">Logging into Amazon Cloud</a></li>
+   
+   
    <li><a href="https://github.com/AmyStonelake/rnaseq_tutorial/wiki">Unix Bootcamp</a></li>
    <li><a href="https://github.com/griffithlab/rnaseq_tutorial/wiki/Environment">Environment</a></li>
    <li><a href="https://github.com/griffithlab/rnaseq_tutorial/wiki/Resources">Resources</a></li>
